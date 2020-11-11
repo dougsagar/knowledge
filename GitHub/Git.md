@@ -7,13 +7,13 @@
 - Revert back any time
 - Local & remote repos
 
-**Basic Commands**
+Basic Commands <h2>
 
 	- git init : le indica al SO que esta listo para comenzar a utilizar git (puede ser un folder con archivos del código o un proyecto ya creado)
 	- git add <file>: agrega nuevos archivos del working directory staging area
 	- git status: ver en que status se encuentran los archivos (si están en working directory o si están en el staging área)
 	- git commit: es para pasar los archivos del staging área al repositorio (es como para crear un primer snapshot, primera foto de la versión del código)
-	- git log: 
+	- git log:  lists the commits made in that repository in reverse chronological order; that is, the most recent commits show up first.
 	- git push: es para subir el código a un repositorio remoto (normalmente se utiliza para subirlo a un servidor para que pueda ser accedido por los desarrolladores que tienen permiso para modificar el código)
 	- git pull: para los casos donde está trabajando múltiples desarrolladores, este comando trae todos esos cambios
 	- git clone: hace una copia local desde el servidor donde se encuentra el repositorio para poder trabajar con el código
