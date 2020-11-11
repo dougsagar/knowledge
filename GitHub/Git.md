@@ -9,7 +9,11 @@
 
 **Basic Commands**
 
-	* **git init:** le indica al SO que esta listo para comenzar a utilizar git (puede ser un folder con archivos del código o un proyecto ya creado)
+![Git States](/images/git_states.png)
+Format: ![Alt Text](url)
+
+
+	* git init: le indica al SO que esta listo para comenzar a utilizar git (puede ser un folder con archivos del código o un proyecto ya creado)
 	* git add <file>: agrega nuevos archivos del working directory staging area
 	* git status: ver en que status se encuentran los archivos (si están en working directory o si están en el staging área)
 	* git commit: es para pasar los archivos del staging área al repositorio (es como para crear un primer snapshot, primera foto de la versión del código)
