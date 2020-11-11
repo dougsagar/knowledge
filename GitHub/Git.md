@@ -7,7 +7,7 @@
 - Revert back any time
 - Local & remote repos
 
-Basic Commands <h2>
+<h2> Basic Commands <h2/>
 
 	- git init : le indica al SO que esta listo para comenzar a utilizar git (puede ser un folder con archivos del código o un proyecto ya creado)
 	- git add <file>: agrega nuevos archivos del working directory staging area
