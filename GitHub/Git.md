@@ -1,13 +1,11 @@
-# Git
-
-**What it is Git?**
+# What it is Git? <h1>
 - Distribuited version control 
 - Cordinates work between multiple developers
 - Who made what changes and when
 - Revert back any time
 - Local & remote repos
 
- ## Basic Commands <h2> tag
+ ## Basic Commands
 
 	- git init : le indica al SO que esta listo para comenzar a utilizar git (puede ser un folder con archivos del código o un proyecto ya creado)
 	- git add <file>: agrega nuevos archivos del working directory staging area
@@ -31,4 +29,10 @@
     - git checkout -- index.html 	Para volver al ultimo snapshot
     - git checkout login	Para cambiar de branch 
     - git add .	agrega todos los archivos
+
+## Links 
+
+-[Git and Github | Practical Course from Scratch](youtube.com/watch?v=HiXLkL42tMU) - Tutorial from scratch
+
+
 
