@@ -32,7 +32,7 @@
 
 ## Links 
 
--[Git and Github | Practical Course from Scratch](youtube.com/watch?v=HiXLkL42tMU) - Tutorial from scratch
+-[Git and Github | Practical Course from Scratch] (youtube.com/watch?v=HiXLkL42tMU) - Tutorial from scratch
 
 
 
