@@ -5,6 +5,8 @@
 - Revert back any time
 - Local & remote repos
 
+![alt text](https://github.com/dougsagar/knowledge/tree/main/GitHub/images/git_states.png?raw=true)
+
  ## Basic Commands
 
 	- git init : le indica al SO que esta listo para comenzar a utilizar git (puede ser un folder con archivos del código o un proyecto ya creado)
