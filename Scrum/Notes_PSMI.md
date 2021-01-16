@@ -74,8 +74,8 @@ They self organize how to do their work. With respect to HR aspects, they report
 * They are responsable only for items realted with Sprint Goal and Srpint Backlog.
 * During Sprint Planning, no one other than the Development Team makes decisions about how many Backlog iItem they will include in a Sprint.
 * The DT completely owns the Srpint Backlog. Nobody can change the Sprint Backlog other than DT. the PO can influence the changes only with tge consent of the DT.
-* It is mandatory to participate in all Scrum events and the act of BAcklog Refinement.
-* There can be multiple Development Teams in paralle. If all of them work on the same product, there should **ONLY ONE** common Product BAcklog and a mutually defined definition of "Done". A mutually defined definition of "Done" enables their combined work outcome to be potentially releasable and useable. since there isonly one Product BAcklog, there should only be one PO
+* It is mandatory to participate in all Scrum events and the act of Backlog Refinement.
+* There can be multiple Development Teams in paralle. If all of them work on the same product, there should **ONLY ONE** common Product Backlog and a mutually defined definition of "Done". A mutually defined definition of "Done" enables their combined work outcome to be potentially releasable and useable. since there isonly one Product Backlog, there should only be one PO
 
 ## Scrum Pillars
 * Transparency
