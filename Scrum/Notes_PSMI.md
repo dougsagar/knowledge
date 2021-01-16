@@ -13,26 +13,35 @@ Scrum is a collaboration framework within which people can address complex adapt
 
 ### What is their responsability?
 **Scrum Master**: Guardian Scrum Implementation. Help the teams and enact it by spirit. Eliminate Scrumbuts.
+
 **Product Owner**: Build and maintain a backlog of valuable product and help teams understand and deliver high value.
+
 **Development Team**: Understand Scrum and selft-organize to focus and deliver the Sprint goal. Improve the way of working sprint by sprint.
 
 ### What do they manage?
 **Scrum Master**: Not people. Manage the Scrum implementation.
+
 **Product Owner**: Not people. Manage the Product Backlog.
+
 **Development Team**: Not people. Manage the Sprint backlog and the development work.
 
 ### Who do they work with?
 **Scrum Master**: One or more Scrum Teams.
+
 **Product Owner**: One or more Scrum Teams. 
-** Development Team: ** One Scrum Team dedicated.
+
+**Development Team**: One Scrum Team dedicated.
 
 ### Is it a dedicated role?
 **Scrum Master**: They can be dedicated. They can also be a Development Team member.
+
 **Product Owner**: They can be dedicated. They can also be a Development Team member.
+
 **Development Team**: They can also play another Scrum role.
 
 ### Who do they report?
 **Scrum Master | Product Owner | Development Team**:
+
 They self organize how to do their work. With respect to HR aspects, they report to some appropriate authority in the organization.
 
 2. Events:
